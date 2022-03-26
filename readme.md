@@ -1,7 +1,9 @@
 Tribute Page
 ============
 
-Created a tribute page for the School of Code pre-learning activites. I decided to make my tribute page for one of my favorite artists, Simon Kenny.
+URL: https://b-attwell.github.io/Tribute-Page/
+
+Created a tribute page for the School of Code pre-learning activites. I decided to make my tribute page for one of my favorite artists, Simon Kenny. 
 
 FreeCodeCamp was used for the requirements which were as follows:
 
